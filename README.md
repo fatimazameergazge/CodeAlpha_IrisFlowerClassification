@@ -32,6 +32,17 @@ using the K-Nearest Neighbors (KNN) algorithm.
 2. Run all cells top to bottom
 3. No dataset download needed — loads automatically!
 
+## Output
+
+<img width="555" height="390" alt="iris_chart_1" src="https://github.com/user-attachments/assets/4e765cfe-c7e1-435d-8174-aebf78aa6ff4" />
+
+
+<img width="790" height="390" alt="iris_chart_2" src="https://github.com/user-attachments/assets/aefe749e-dc69-479c-88f0-070635e5562c" />
+
+
+<img width="589" height="490" alt="iris_chart_3" src="https://github.com/user-attachments/assets/d36969a3-c2c4-4b93-b4af-3793064c0c14" />
+
+
 ## Internship
 This project was completed as part of the 
 **CodeAlpha Data Science Internship Program**
